@@ -1,6 +1,6 @@
 package objectorientedconcepts;
 
-public class Assignment3 {
+public class Assignment4 {
     // DECLARE A BLUEPRINT / CLASS CALLED AS CAR
     // DECLARE PROPERTIES
     // DECLARE NEW INSTANCE OF THE BLUEPRINT
